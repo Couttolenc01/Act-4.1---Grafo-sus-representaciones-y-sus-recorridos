@@ -1,7 +1,7 @@
 /*
  * appGrafo.cpp
  *
- *  Created on: 10/11/2022
+ *  Created on: 30/11/2022
  *      Author: Francisco Couttolenc Ortiz
  */
 #include <iostream>
